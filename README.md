@@ -11,6 +11,9 @@
 
 ### 補足
 
+1. http://code.jquery.com/jquery-3.5.1.js は CDN から読み込みをしている
+1. 詳細は `CDN JavaScript` で調べるとよい
+1. 商用で利用する場合は注意
 
 
 ### デモ改訂履歴
