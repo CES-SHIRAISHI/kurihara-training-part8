@@ -1,1 +1,1 @@
-window.alert('����ɂ��́A���E! ');
+window.alert('こんにちは、世界! ');

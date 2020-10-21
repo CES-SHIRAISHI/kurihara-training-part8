@@ -1,21 +1,21 @@
-document.addElementListener(eDOMContentLoadedf,function() {
-  document.getElementById(ebtnf).addEventListener(eclickf,function() {
-    //ƒeƒLƒXƒgƒ{ƒbƒNƒX‚ğæ“¾
-    var name=document.getElemenById(enamef);
-    var url=document.getElementById(eurlf);
+document.addElementListener('DOMContentLoaded',function() {
+  document.getElementById('btn').addEventListener('click',function() {
+    //ãƒ†ã‚­ã‚¹ãƒˆãƒœãƒƒã‚¯ã‚¹ã‚’å–å¾—
+    var name=document.getElemenById('name');
+    var url=document.getElementById('url');
 
-    // <a>—v‘f‚ğ¶¬
-    var anchor=document.createElement(eaf);
-    // <a>—v‘f‚Ìhref‘®«‚ğİ’è
+    // <a>è¦ç´ ã‚’ç”Ÿæˆ
+    var anchor=document.createElement('a');
+    // <a>è¦ç´ ã®hrefå±æ€§ã‚’è¨­å®š
     anchor.href=url.value;
-    //@ƒeƒLƒXƒgƒm[ƒh‚ğ¶¬‚µA<a>—v‘f‚Ì’¼‰º‚É’Ç‰Á
+    //ã€€ãƒ†ã‚­ã‚¹ãƒˆãƒãƒ¼ãƒ‰ã‚’ç”Ÿæˆã—ã€<a>è¦ç´ ã®ç›´ä¸‹ã«è¿½åŠ 
     var text=document.createTextNode(name.value);
     anchor.appendChild(text);
-    // <br>—v‘f‚ğ¶¬
-    var br=document.createElement(ebrf);
-    // <div id=glisth>‚ğæ“¾
-    var list=document.getElementById(elistf);
-    // <div>—v‘f‚Ì’¼‰º‚É<a>/<br>—v‘f‚Ì‡”Ô‚Å’Ç‰Á
+    // <br>è¦ç´ ã‚’ç”Ÿæˆ
+    var br=document.createElement('br');
+    // <div id=â€œlistâ€>ã‚’å–å¾—
+    var list=document.getElementById('list');
+    // <div>è¦ç´ ã®ç›´ä¸‹ã«<a>/<br>è¦ç´ ã®é †ç•ªã§è¿½åŠ 
     list.appendChild(anchor);
     list.appendChild(br);
   },false);
