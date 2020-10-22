@@ -32,43 +32,43 @@ JavaScript の 一部ではなく、 業務上 XML などを操作すること�
 
 ### 最低限覚えたい要素(とその属性)について
 
-* (&lt;A>)[http://www.tohoho-web.com/html/a.htm]
-* (&lt;!DOCTYPE>)[http://www.tohoho-web.com/html/doctype.htm]
-* (&lt;!-- -->)[http://www.tohoho-web.com/html/comments.htm]
-* (文字参照)[http://www.tohoho-web.com/html/char.htm]
-* (&lt;html>)[http://www.tohoho-web.com/html/html.htm]
-* (&lt;head>)[http://www.tohoho-web.com/html/head.htm]
-* (&lt;body>)[http://www.tohoho-web.com/html/body.htm]
-* (&lt;style>)[http://www.tohoho-web.com/html/style.htm]
-* (&lt;script>)[http://www.tohoho-web.com/html/script.htm]
-* (&lt;div>)[http://www.tohoho-web.com/html/div.htm]
-* (&lt;span>)[http://www.tohoho-web.com/html/span.htm]
-* (&lt;section>)[http://www.tohoho-web.com/html/section.htm]
-* (&lt;br>)[http://www.tohoho-web.com/html/br.htm]
-* (&lt;hr>)[http://www.tohoho-web.com/html/hr.htm]
-* (&lt;p>)[http://www.tohoho-web.com/html/p.htm]
-* (&lt;pre>)[http://www.tohoho-web.com/html/pre.htm]
-* (&lt;iframe>)[http://www.tohoho-web.com/html/iframe.htm]
-* (&lt;img>)[http://www.tohoho-web.com/html/img.htm]
-* (&lt;form>)[http://www.tohoho-web.com/html/form.htm]
-* (&lt;input>)[http://www.tohoho-web.com/html/input.htm]
-* (&lt;button>)[http://www.tohoho-web.com/html/button.htm]
-* (&lt;select>)[http://www.tohoho-web.com/html/select.htm]
-* (&lt;option>)[http://www.tohoho-web.com/html/option.htm]
-* (&lt;textarea>)[http://www.tohoho-web.com/html/textarea.htm]
-* (&lt;label>)[http://www.tohoho-web.com/html/label.htm]
-* (&lt;table>)[http://www.tohoho-web.com/html/table.htm]
-* (&lt;thead>)[http://www.tohoho-web.com/html/thead.htm]
-* (&lt;tbody>)[http://www.tohoho-web.com/html/tbody.htm]
-* (&lt;td>)[http://www.tohoho-web.com/html/td.htm]
-* (&lt;th>)[http://www.tohoho-web.com/html/th.htm]
-* (&lt;tr>)[http://www.tohoho-web.com/html/tr.htm]
-* (&lt;dd>)[http://www.tohoho-web.com/html/dd.htm]
-* (&lt;dl>)[http://www.tohoho-web.com/html/dl.htm]
-* (&lt;dt>)[http://www.tohoho-web.com/html/dt.htm]
-* (&lt;ul>)[http://www.tohoho-web.com/html/ul.htm]
-* (&lt;li>)[http://www.tohoho-web.com/html/li.htm]
-* (&lt;ol>)[http://www.tohoho-web.com/html/ol.htm]
+* [&lt;A&gt;](http://www.tohoho-web.com/html/a.htm)
+* [&lt;!DOCTYPE&gt;](http://www.tohoho-web.com/html/doctype.htm)
+* [&lt;!-- --&gt;](http://www.tohoho-web.com/html/comments.htm)
+* [文字参照](http://www.tohoho-web.com/html/char.htm)
+* [&lt;html&gt;](http://www.tohoho-web.com/html/html.htm)
+* [&lt;head&gt;](http://www.tohoho-web.com/html/head.htm)
+* [&lt;body&gt;](http://www.tohoho-web.com/html/body.htm)
+* [&lt;style&gt;](http://www.tohoho-web.com/html/style.htm)
+* [&lt;script&gt;](http://www.tohoho-web.com/html/script.htm)
+* [&lt;div&gt;](http://www.tohoho-web.com/html/div.htm)
+* [&lt;span&gt;](http://www.tohoho-web.com/html/span.htm)
+* [&lt;section&gt;](http://www.tohoho-web.com/html/section.htm)
+* [&lt;br&gt;](http://www.tohoho-web.com/html/br.htm)
+* [&lt;hr&gt;](http://www.tohoho-web.com/html/hr.htm)
+* [&lt;p&gt;](http://www.tohoho-web.com/html/p.htm)
+* [&lt;pre&gt;](http://www.tohoho-web.com/html/pre.htm)
+* [&lt;iframe&gt;](http://www.tohoho-web.com/html/iframe.htm)
+* [&lt;img&gt;](http://www.tohoho-web.com/html/img.htm)
+* [&lt;form&gt;](http://www.tohoho-web.com/html/form.htm)
+* [&lt;input&gt;](http://www.tohoho-web.com/html/input.htm)
+* [&lt;button&gt;](http://www.tohoho-web.com/html/button.htm)
+* [&lt;select&gt;](http://www.tohoho-web.com/html/select.htm)
+* [&lt;option&gt;](http://www.tohoho-web.com/html/option.htm)
+* [&lt;textarea&gt;](http://www.tohoho-web.com/html/textarea.htm)
+* [&lt;label&gt;](http://www.tohoho-web.com/html/label.htm)
+* [&lt;table&gt;](http://www.tohoho-web.com/html/table.htm)
+* [&lt;thead&gt;](http://www.tohoho-web.com/html/thead.htm)
+* [&lt;tbody&gt;](http://www.tohoho-web.com/html/tbody.htm)
+* [&lt;td&gt;](http://www.tohoho-web.com/html/td.htm)
+* [&lt;th&gt;](http://www.tohoho-web.com/html/th.htm)
+* [&lt;tr&gt;](http://www.tohoho-web.com/html/tr.htm)
+* [&lt;dd&gt;](http://www.tohoho-web.com/html/dd.htm)
+* [&lt;dl&gt;](http://www.tohoho-web.com/html/dl.htm)
+* [&lt;dt&gt;](http://www.tohoho-web.com/html/dt.htm)
+* [&lt;ul&gt;](http://www.tohoho-web.com/html/ul.htm)
+* [&lt;li&gt;](http://www.tohoho-web.com/html/li.htm)
+* [&lt;ol&gt;](http://www.tohoho-web.com/html/ol.htm)
 
 
 
