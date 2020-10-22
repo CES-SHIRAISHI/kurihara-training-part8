@@ -32,50 +32,50 @@ JavaScript の 一部ではなく、 業務上 XML などを操作すること�
 
 ### 最低限覚えたい要素(とその属性)について
 
-* (<A>)[http://www.tohoho-web.com/html/a.htm]
-* (<!DOCTYPE>)[http://www.tohoho-web.com/html/doctype.htm]
-* (<!-- -->)[http://www.tohoho-web.com/html/comments.htm]
+* (&lt;A>)[http://www.tohoho-web.com/html/a.htm]
+* (&lt;!DOCTYPE>)[http://www.tohoho-web.com/html/doctype.htm]
+* (&lt;!-- -->)[http://www.tohoho-web.com/html/comments.htm]
 * (文字参照)[http://www.tohoho-web.com/html/char.htm]
-* (<html>)[http://www.tohoho-web.com/html/html.htm]
-* (<head>)[http://www.tohoho-web.com/html/head.htm]
-* (<body>)[http://www.tohoho-web.com/html/body.htm]
-* (<style>)[http://www.tohoho-web.com/html/style.htm]
-* (<script>)[http://www.tohoho-web.com/html/script.htm]
-* (<div>)[http://www.tohoho-web.com/html/div.htm]
-* (<span>)[http://www.tohoho-web.com/html/span.htm]
-* (<section>)[http://www.tohoho-web.com/html/section.htm]
-* (<br>)[http://www.tohoho-web.com/html/br.htm]
-* (<hr>)[http://www.tohoho-web.com/html/hr.htm]
-* (<p>)[http://www.tohoho-web.com/html/p.htm]
-* (<pre>)[http://www.tohoho-web.com/html/pre.htm]
-* (<iframe>)[http://www.tohoho-web.com/html/iframe.htm]
-* (<img>)[http://www.tohoho-web.com/html/img.htm]
-* (<form>)[http://www.tohoho-web.com/html/form.htm]
-* (<input>)[http://www.tohoho-web.com/html/input.htm]
-* (<button>)[http://www.tohoho-web.com/html/button.htm]
-* (<select>)[http://www.tohoho-web.com/html/select.htm]
-* (<option>)[http://www.tohoho-web.com/html/option.htm]
-* (<textarea>)[http://www.tohoho-web.com/html/textarea.htm]
-* (<label>)[http://www.tohoho-web.com/html/label.htm]
-* (<table>)[http://www.tohoho-web.com/html/table.htm]
-* (<thead>)[http://www.tohoho-web.com/html/thead.htm]
-* (<tbody>)[http://www.tohoho-web.com/html/tbody.htm]
-* (<td>)[http://www.tohoho-web.com/html/td.htm]
-* (<th>)[http://www.tohoho-web.com/html/th.htm]
-* (<tr>)[http://www.tohoho-web.com/html/tr.htm]
-* (<dd>)[http://www.tohoho-web.com/html/dd.htm]
-* (<dl>)[http://www.tohoho-web.com/html/dl.htm]
-* (<dt>)[http://www.tohoho-web.com/html/dt.htm]
-* (<ul>)[http://www.tohoho-web.com/html/ul.htm]
-* (<li>)[http://www.tohoho-web.com/html/li.htm]
-* (<ol>)[http://www.tohoho-web.com/html/ol.htm]
+* (&lt;html>)[http://www.tohoho-web.com/html/html.htm]
+* (&lt;head>)[http://www.tohoho-web.com/html/head.htm]
+* (&lt;body>)[http://www.tohoho-web.com/html/body.htm]
+* (&lt;style>)[http://www.tohoho-web.com/html/style.htm]
+* (&lt;script>)[http://www.tohoho-web.com/html/script.htm]
+* (&lt;div>)[http://www.tohoho-web.com/html/div.htm]
+* (&lt;span>)[http://www.tohoho-web.com/html/span.htm]
+* (&lt;section>)[http://www.tohoho-web.com/html/section.htm]
+* (&lt;br>)[http://www.tohoho-web.com/html/br.htm]
+* (&lt;hr>)[http://www.tohoho-web.com/html/hr.htm]
+* (&lt;p>)[http://www.tohoho-web.com/html/p.htm]
+* (&lt;pre>)[http://www.tohoho-web.com/html/pre.htm]
+* (&lt;iframe>)[http://www.tohoho-web.com/html/iframe.htm]
+* (&lt;img>)[http://www.tohoho-web.com/html/img.htm]
+* (&lt;form>)[http://www.tohoho-web.com/html/form.htm]
+* (&lt;input>)[http://www.tohoho-web.com/html/input.htm]
+* (&lt;button>)[http://www.tohoho-web.com/html/button.htm]
+* (&lt;select>)[http://www.tohoho-web.com/html/select.htm]
+* (&lt;option>)[http://www.tohoho-web.com/html/option.htm]
+* (&lt;textarea>)[http://www.tohoho-web.com/html/textarea.htm]
+* (&lt;label>)[http://www.tohoho-web.com/html/label.htm]
+* (&lt;table>)[http://www.tohoho-web.com/html/table.htm]
+* (&lt;thead>)[http://www.tohoho-web.com/html/thead.htm]
+* (&lt;tbody>)[http://www.tohoho-web.com/html/tbody.htm]
+* (&lt;td>)[http://www.tohoho-web.com/html/td.htm]
+* (&lt;th>)[http://www.tohoho-web.com/html/th.htm]
+* (&lt;tr>)[http://www.tohoho-web.com/html/tr.htm]
+* (&lt;dd>)[http://www.tohoho-web.com/html/dd.htm]
+* (&lt;dl>)[http://www.tohoho-web.com/html/dl.htm]
+* (&lt;dt>)[http://www.tohoho-web.com/html/dt.htm]
+* (&lt;ul>)[http://www.tohoho-web.com/html/ul.htm]
+* (&lt;li>)[http://www.tohoho-web.com/html/li.htm]
+* (&lt;ol>)[http://www.tohoho-web.com/html/ol.htm]
 
 
 
 ## Page.6 : ハンズオン1 (1012-01.html) / ハンズオン2 (1012-02.html)
 
-[ハンズオン1 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-01.html)
-[ハンズオン2 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-02.html)
+- [ハンズオン1 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-01.html)
+- [ハンズオン2 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-02.html)
 
 
 ### 補足
@@ -87,20 +87,20 @@ JavaScript の 一部ではなく、 業務上 XML などを操作すること�
 
 ## Page.12 : ハンズオン3 (1012-03.html)
 
-[ハンズオン3 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-03.html)
+- [ハンズオン3 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-03.html)
 
 
 
 ## Page.15 : ハンズオン4 (1012-04.html)
 
-[ハンズオン4 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-04.html)
+- [ハンズオン4 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-04.html)
 
 
 
 
 ## Page.18 : ハンズオン5 (1012-05.html)
 
-[ハンズオン5 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-05.html)
+- [ハンズオン5 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-05.html)
 
 
 ### 補足
@@ -119,18 +119,19 @@ if(opt.nodeType == 1) {
 
 ## Page.21 : ハンズオン6 (1012-06.html)
 
-[ハンズオン6 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-06.html)
+- [ハンズオン6 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-06.html)
 
 
 
 ## Page.22 : ハンズオン7 (1012-07.html)
 
-[ハンズオン7 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-07.html)
+- [ハンズオン7 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-07.html)
+
 
 
 ## Page.25 : ハンズオン8 (1012-08.html)
 
-[ハンズオン8 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-08.html)
+- [ハンズオン8 : オンラインデモ](https://ces-shiraishi.github.io/kurihara-training-part8/1012-08.html)
 
 
 
