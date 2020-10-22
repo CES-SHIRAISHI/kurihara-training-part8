@@ -7,8 +7,8 @@
 
 ### DOM について
 
-詳しくは[このサイト](https://developer.mozilla.org/ja/docs/Web/API/Document_Object_Model)を見るのが良いが、
-JavaScript の 一部ではなく、 業務上 XML などを操作することは少なくないので、覚えておいたほうが良い概念である
+詳しくは[このサイト](https://developer.mozilla.org/ja/docs/Web/API/Document_Object_Model)を見るのが良いですが、
+JavaScript の 一部ではなく、 業務上 XML などを操作することは少なくないので、覚えておいたほうが良い概念となります。
 
 
 ### 事前に学習しておいたほうが良いこと
